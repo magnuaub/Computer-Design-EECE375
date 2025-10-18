@@ -1,0 +1,10 @@
+*.tcl linguist-vendored
+*.sh linguist-vendored
+*.bat linguist-vendored
+*.js linguist-vendored
+*.c linguist-vendored
+*.h linguist-vendored
+*.java linguist-vendored
+
+# Mark Verilog as the main language
+*.v linguist-language=Verilog
