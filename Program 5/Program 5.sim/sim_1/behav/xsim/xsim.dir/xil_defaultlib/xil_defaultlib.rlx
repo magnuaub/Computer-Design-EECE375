@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/LG/Program 5/Program 5.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/LG/Program 5/Program 5.srcs/sim_1/new/CLK_divider_tb.v,1759024587,verilog,,,,CLK_divider_tb,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/LG/Program 5/Program 5.srcs/sim_1/new/tb_SPI_MA.v,1759228138,verilog,,,,tb_SPI_MA,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/LG/Program 5/Program 5.srcs/sources_1/new/CLK_divider.v,1759024563,verilog,,C:/Users/LG/Program 5/Program 5.srcs/sources_1/new/FSM.v,,CLK_divider,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/LG/Program 5/Program 5.srcs/sources_1/new/FSM.v,1759228205,verilog,,C:/Users/LG/Program 5/Program 5.srcs/sources_1/new/SPI_MA.v,,FSM,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/LG/Program 5/Program 5.srcs/sources_1/new/SPI_MA.v,1759316082,verilog,,C:/Users/LG/Program 5/Program 5.srcs/sim_1/new/tb_SPI_MA.v,,SPI_MA,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

@@ -1,0 +1,25 @@
+# Vivado project temporary and generated files
+*.log
+*.jou
+*.str
+*.backup.jou
+*.backup.log
+*.tmp
+
+# Vivado folders
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.xpr.cache/
+.Xil/
+
+# Other build artefacts
+*.bin
+*.bit
+*.mcs
+*.elf
+*.o
+*.exe
+*.wav

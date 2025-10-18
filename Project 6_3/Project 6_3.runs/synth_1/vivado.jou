@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sat Oct 18 12:39:25 2025
+# Process ID         : 8976
+# Current directory  : C:/Users/LG/Project 6_3/Project 6_3.runs/synth_1
+# Command line       : vivado.exe -log SPI.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source SPI.tcl
+# Log file           : C:/Users/LG/Project 6_3/Project 6_3.runs/synth_1/SPI.vds
+# Journal file       : C:/Users/LG/Project 6_3/Project 6_3.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-GP1L0EL
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 16890 MB
+# Swap memory        : 17179 MB
+# Total Virtual      : 34070 MB
+# Available Virtual  : 22445 MB
+#-----------------------------------------------------------
+source SPI.tcl -notrace
